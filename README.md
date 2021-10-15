@@ -1,5 +1,5 @@
 # UNIFI-50kW-RWT
-Main repository for the 50 kw reference wind turbine designed by the University of Florence (Italy)
+Main repository for the 50 kW reference wind turbine designed by the University of Florence (Italy)
 
 This repository contains the model data for the 50 kW reference small wind turbine developed by the Department of Industrial Engineering of Università degli Studi di Firenze (Italy).
 
